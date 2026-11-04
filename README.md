@@ -134,7 +134,7 @@ A platform aimed at reducing food waste by connecting food donors with people an
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojkumar441&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
+  <img src="https://raw.githubusercontent.com/manojkumar441/manojkumar441/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
 </div>
 
 <!-- ===================== 7. MOST USED LANGUAGES ===================== -->
