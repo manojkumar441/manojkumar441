@@ -32,7 +32,6 @@ I'm an aspiring **Full Stack Developer** and a **B.Tech graduate in Electronics 
 I work with **HTML, CSS, JavaScript, React.js, Python, and SQL**, and I have a growing interest in **AI/ML**. I enjoy developing practical projects, solving programming challenges, and continuously improving my technical and problem-solving skills. Right now, I'm focused on strengthening my full-stack development skills and growing as a software developer.
 
 - 📍 **Location:** Hyderabad, Telangana, India
-- 💼 **Current Role:** NxtWave Intensive
 - 🎓 **Education:** B.Tech in Electronics and Communication Engineering, JNTUH University College of Engineering, Rajanna Sircilla (2022–2026)
 - 🎯 **Looking for:** Python Developer · Full Stack Python Developer · Frontend Developer · AI/ML Intern · Data Analyst
 - 💡 **Interests:** Web Development · Python Programming · AI & Machine Learning · Data Analysis · Problem Solving
